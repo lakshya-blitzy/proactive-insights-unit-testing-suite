@@ -1,1 +1,1 @@
-# proactive-insights-unit-testing-suite
+# Unit suite\n\nRun `pip install -r requirements.txt && pytest -q`. Contains intentionally limited unit coverage for scanner evaluation.\n
